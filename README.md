@@ -1,17 +1,17 @@
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm Abhishek 
 
 ### A Passionate Full Stack Developer 🚀
 
 - 🔭 I’m currently working on [Your Projects or Topics]
 - 🌱 I’m currently learning **Node.js, React**
 - 💬 Ask me about **Anything**
-- 📫 How to reach me: [Your Email or LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 How to reach me:( https://www.linkedin.com/in/abhishek-pandey-developer/)
 - ⚡ Fun fact: [A fun/interesting fact about you]
 
 ---
 
 ### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/abhishek-pandey-developer/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
 
 ---
