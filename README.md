@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=01abhishek-dev&label=Profile%20views&color=0e75b6&style=flat" alt="01abhishek-dev" /> </p>
+<p align="left"> <img src=""C:\Users\91888\Downloads\banner github+linkdin.gif"" alt="01abhishek-dev" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
